@@ -1,4 +1,7 @@
 # Taller 10 (Laboratorio):
+- CARRION INGA MICHAEL ALEJANDRO
+- FUSTERO AMOROS ESTER
+- GRANDA PANTA JORGE ANDRES
 ## Construcción de programas usando arreglos bidimensionales
 
 * Lenguaje de programación : Java
