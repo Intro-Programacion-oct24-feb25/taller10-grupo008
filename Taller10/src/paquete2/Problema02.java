@@ -35,7 +35,7 @@ public class Problema02 {
                 suma = suma +  ventasdias[fila][col];
             }
         }
-        
+                            
         for (int fila = 0; fila < ventasdias.length; fila++) {
             System.out.printf("Vendedor(a) %s \n", vendedores[fila]);
         }
