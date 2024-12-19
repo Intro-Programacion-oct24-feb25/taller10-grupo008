@@ -28,7 +28,7 @@ public class Problema05 {
                 switch (inicial) {
                     case "S":
                     case "P":
-                    case "T":
+                    case "T":   
                         cadena = String.format("%s %s -",cadena, estudiantes[i][col]);
                         break;
                 }
