@@ -37,7 +37,7 @@ public class Problema04 {
         }
         for (int i = 0; i < datos.length; i++) {
             for (int col = 0; col < datos[i].length; col++) {
-                System.out.printf("[%d[[%d] = %.2f\n", i,col,datos[i][col]);
+                System.out.printf("[%d][%d] = %.2f\n", i,col,datos[i][col]);
 
             }
 
